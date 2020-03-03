@@ -1,5 +1,5 @@
 function iniciar() {
-	console.log("manipulador de peticiones iniciar  ha sido llamado");	
+	console.log("manipulador de peticiones 'iniciar'  ha sido llamado");	
 
 }
 
